@@ -1,11 +1,14 @@
 Submissions
 ======================
-> *Auto-generated with ❤ using [Harwest](https://github.com/nileshsah/harwest-tool)*
 
-## Introduction
+## Profile
+<img src="https://i.imgur.com/Q1gjD0Z.png" width="100" height="100" align=left>
 
-A repository to keep track of problem solving practice, containing solutions from platforms:
-* Codeforces &nbsp; [![Codeforces](https://run.kaist.ac.kr/badges/codeforces/Andrei9383.svg)](https://codeforces.com/profile/Andrei9383)
+**Username:** &nbsp;Andrei9383
+
+**Rating:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;354
+
+**Registered:** Saturday, 18 September 2021
 
 
 ## Contents
